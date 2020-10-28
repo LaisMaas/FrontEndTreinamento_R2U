@@ -1,10 +1,13 @@
 console.log("Atribuição de variáveis")
 
-//Quanto menos for utilizado variáveis com let melhor
-const idade = 29
+//Evitar utilizar a opção let na declaração das variavéis
+
+const saudacao //declaração da variável
+saudacao = "Bem vinda!" //atribuição da variável
 const nome = "Laís"
 const sobrenome = "Lopes"
 let nome1 = "Manuella"
+const idade = 29
 
 console.log(nome + " " + sobrenome) //concatenando os valores para visualização
 console.log(nome, sobrenome) //separando os parâmetros/valores por vírgula
