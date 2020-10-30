@@ -15,7 +15,9 @@ Cada elemento HTML é representado por um objeto(Modelo de Objeto). Cada objeto 
 O objeto também tem pais, filhos e irmãos conforme especificado pela árvore DOM.
 </p>
 
-<a src = "" href= ""></a>
+<img src = "https://github.com/LaisMaas/FrontEndTreinamento_R2U/blob/main/Trilha0_Extra_FrontEnd/Trilha0_DOM/img/MenuMcBonalds.png" href= "Menu McBonald"></a>
+
+<img src = "https://github.com/LaisMaas/FrontEndTreinamento_R2U/blob/main/Trilha0_Extra_FrontEnd/Trilha0_DOM/img/CodigoMenuMcBonalds.png" href= "Árvore DOM do Menu McBonalds">
 
 <ul>
   
