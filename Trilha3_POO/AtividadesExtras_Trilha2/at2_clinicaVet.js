@@ -61,7 +61,7 @@ const atendimento1 = new atendimento();
 const atendimento2 = new atendimento();
 const atendimento3 = new atendimento();
 
-
+//Verificar **********
 atendimento1.data = " ";
 atendimento1.hora = " ";
 atendimento1.texct = " ";
