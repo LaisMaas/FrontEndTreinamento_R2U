@@ -1,20 +1,14 @@
 import React from 'react';
-
-import ListaDeNotas from "./componentes/listaDeNotas"
+import { ListaDeNotas } from "./componentes/listaDeNotas"
 
 function App() {
   return (
     <section>
-      <h1>Meu primeiro App react</h1>
-      <form>
-        <input type="text" placeholder="Titulo"></input>
-        <textarea placeholder="Escreva sua tarefa..." ></textarea>
-
-        <button>Salvar</button>
-      </form>
-      <ListaDeNotas />  
-      
+      <formularioCadastro/>
+      <ListaDeNotas/>      
     </section>
   );
 }
+//react  --> lib
+//React  --> ecossistema
 export default App;
