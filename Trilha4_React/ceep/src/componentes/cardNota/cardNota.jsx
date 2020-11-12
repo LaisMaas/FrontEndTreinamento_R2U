@@ -1,5 +1,3 @@
-//import { createContext } from "react";
-
 import React, { Component } from "react";
 import "./estilo.css"
 
@@ -7,10 +5,10 @@ class CardNota extends Component {
   render() {
     return (
       <section className="card-nota">
-        <header>
-          <h3>Título</h3>
+        <header className="card-nota_cabecalho">
+          <h3 className="card-nota_titulo">Título</h3>
         </header>
-        <p>Descreva sua tarefa</p>
+        <p className="card-nota_texto">Descreva sua tarefa</p>
       </section>
       )     
   }
